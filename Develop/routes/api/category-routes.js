@@ -5,7 +5,14 @@ const { Category, Product } = require('../../models');
 
 router.get('/', (req, res) => {
   // find all categories
-  Category.findAll()
+  Category.findAll({
+    include: [
+      {
+        model: Product,
+        attributes: ['id', 'product_name', 'price', 'stock', 'category_id']
+      }
+    ]
+  })
     .then(dbCategoryData => res.json(dbCategoryData))
     .catch(err => {
       console.log(err);
@@ -22,8 +29,8 @@ router.get('/:id', (req, res) => {
     },
     include: [
       {
-        model: ,
-        attributes:
+        model: Product,
+        attributes: ['id', 'product_name', 'price', 'stock', 'category_id']
       }
     ]
   }).then(dbCategoryData => {
