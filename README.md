@@ -9,6 +9,8 @@ As a manager at an internet retail company I want a back end for my e-commerce w
 * Sequelize
 * Express.js
 
+## MYSQL and SEED Database
+https://watch.screencastify.com/v/R5ZqwFZhqHiaXQypFCSE
 
 ## GET Routes ALL
 
