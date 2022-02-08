@@ -19,6 +19,7 @@ https://watch.screencastify.com/v/SA0Y6yCGPWjD0kuXJu6s
 https://watch.screencastify.com/v/CYzt173zOCSb7mHUUbMf
 
 ## POST Routes
+https://watch.screencastify.com/v/tjRbct2XUhEVypgzCrFg
 
 ## PUT Routes
 
