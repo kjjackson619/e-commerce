@@ -13,6 +13,7 @@ As a manager at an internet retail company I want a back end for my e-commerce w
 https://watch.screencastify.com/v/R5ZqwFZhqHiaXQypFCSE
 
 ## GET Routes ALL
+https://watch.screencastify.com/v/SA0Y6yCGPWjD0kuXJu6s
 
 ## GET Routes SINGLE ID
 
