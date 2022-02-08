@@ -22,8 +22,10 @@ https://watch.screencastify.com/v/CYzt173zOCSb7mHUUbMf
 https://watch.screencastify.com/v/tjRbct2XUhEVypgzCrFg
 
 ## PUT Routes
+https://watch.screencastify.com/v/hjYHwLIRzZOFcvcZRB78
 
 ## DELETE Routes
+https://watch.screencastify.com/v/i5viRN3yBFIr1HWvTKgp
 
 
 ## Contribution
